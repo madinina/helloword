@@ -1,0 +1,5 @@
+helloword.class
+*.class
+*.swp
+target
+*.*~
